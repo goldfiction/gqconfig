@@ -1,0 +1,10 @@
+{
+  "name": "gqconfig",
+  "version": "0.0.2",
+  "public":true,
+  "main":"./gqconfig.js",
+  "dependencies":{
+    "lodash":"1.0.0",
+    "require-ini":"0.0.1"
+  }
+}
