@@ -1,10 +1,17 @@
 {
   "name": "gqconfig",
-  "version": "0.0.2",
+  "version": "1.0.2",
   "public":true,
   "main":"./gqconfig.js",
   "dependencies":{
     "lodash":"1.0.0",
-    "require-ini":"0.0.1"
+    "ini":"1.0.0"
+  },
+  "version_log":{
+    "1.0.2":"convert values to true types",
+    "1.0.1":"don't crash when config files are not there",
+    "1.0.0":"first release!",
+    "0.0.2":"job done!",
+    "0.0.1":"init"
   }
 }
