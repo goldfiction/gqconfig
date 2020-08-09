@@ -1,17 +1,18 @@
 {
   "name": "gqconfig",
-  "version": "1.0.2",
-  "public":true,
-  "main":"./gqconfig.js",
-  "dependencies":{
-    "lodash":"1.0.0",
-    "ini":"1.0.0"
+  "version": "1.0.3",
+  "private": false,
+  "main": "./gqconfig.js",
+  "dependencies": {
+    "lodash": "4.17.19",
+    "ini": "1.0.0"
   },
-  "version_log":{
-    "1.0.2":"convert values to true types",
-    "1.0.1":"don't crash when config files are not there",
-    "1.0.0":"first release!",
-    "0.0.2":"job done!",
-    "0.0.1":"init"
+  "version_log": {
+    "1.0.3": "fixed lodash security alert",
+    "1.0.2": "convert values to true types",
+    "1.0.1": "don't crash when config files are not there",
+    "1.0.0": "first release!",
+    "0.0.2": "job done!",
+    "0.0.1": "init"
   }
 }
