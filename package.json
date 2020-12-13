@@ -5,7 +5,7 @@
   "main": "./gqconfig.js",
   "dependencies": {
     "lodash": "4.17.19",
-    "ini": "1.0.0"
+    "ini": "1.3.6"
   },
   "version_log": {
     "1.0.3": "fixed lodash security alert",
